@@ -71,41 +71,22 @@
 
 > Replace the two projects above with your real repos, or add more — link each title to its repo/live demo.
 
----
 
-### 📊 GitHub Stats
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-> This animation needs a one-time setup via a GitHub Action ([Platane/snk](https://github.com/Platane/snk)) — instructions in the setup note at the bottom of this file.
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-  I'm always open to interesting frontend work, collaborations, or just talking shop about UI motion design.<br/>
-  Reach out — links are above ⬆️
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=120&section=footer" alt="Footer wave" />
